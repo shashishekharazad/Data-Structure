@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 12 Jun 2017 19:41:40 at https://www.cs.usfca.edu/~galles/visualization/RedBlack.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cs.usfca.edu/~galles/visualization/RedBlack.html -O1 "C:\My Web Sites\red black trees" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:41:41	Warning: 	Found for https://www.cs.usfca.edu/robots.txt
+19:41:41	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.cs.usfca.edu/robots.txt and www.cs.usfca.edu/robots.txt
+19:41:41	Warning: 	Warning moved treated for https://www.cs.usfca.edu/robots.txt (real one is www.cs.usfca.edu/robots.txt)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-bg_highlight-soft_100_eeeeee_1x100.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-bg_gloss-wave_35_f6a828_500x100.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-bg_glass_100_f6f6f6_1x400.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-bg_glass_100_fdf5ce_1x400.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-bg_glass_65_ffffff_1x400.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-bg_highlight-soft_75_ffe45c_1x100.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-bg_diagonals-thick_18_b81900_40x40.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-icons_222222_256x240.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-icons_ffffff_256x240.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-icons_ef8c08_256x240.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-icons_228ef1_256x240.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-icons_ffd27a_256x240.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-bg_diagonals-thick_20_666666_40x40.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:42:10	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/ThirdParty/images/ui-bg_flat_10_000000_40x100.png (from https://www.cs.usfca.edu/~galles/visualization/ThirdParty/jquery-ui-1.8.11.custom.css)
+19:45:06	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/images/tracker.gif?src=galles_visual_about (from https://www.cs.usfca.edu/~galles/visualization/java/visualization.html)
+19:45:07	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/images/tracker.gif?src=galles_visual_screenshots (from https://www.cs.usfca.edu/~galles/visualization/java/screenshots.html)
+19:45:49	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/images/tracker.gif?src=galles_visual_download (from https://www.cs.usfca.edu/~galles/visualization/java/download.html)
+19:45:49	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/images/tracker.gif?src=galles_visual_faq (from https://www.cs.usfca.edu/~galles/visualization/java/faq.html)
+19:45:49	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/images/tracker.gif?src=galles_visual_bug (from https://www.cs.usfca.edu/~galles/visualization/java/bugfeature.html)
+19:45:49	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/images/tracker.gif?src=galles_visual_testimonials (from https://www.cs.usfca.edu/~galles/visualization/java/testimonials.html)
+19:45:49	Error: 	"Not Found" (404) at link https://www.cs.usfca.edu/~galles/visualization/Place path to your javasript file here (from https://www.cs.usfca.edu/~galles/visualization/template.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 9 seconds : 179 links scanned, 157 files written (40897817 bytes overall) [40969040 bytes received at 164534 bytes/sec], 9.7 requests per connection
+(21 errors, 3 warnings, 0 messages)
